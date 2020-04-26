@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ntduy96.github.io</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.8.2/css/bulma.min.css">
+</head>
+<body>
+    <div class="container">
+        <div class="columns is-mobile has-text-centered">
+            <div class="column is-full">
+                <h1 class="title">Hello World</h1>
+                <?php
+                echo '<code>Powered by PHP</code>'
+                ?>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
